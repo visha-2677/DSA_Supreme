@@ -1,0 +1,3 @@
+Input= arr1[]={1,2,2,3,4,5};//Two sorted array of Union
+    arr2[]={2,3,4,5,2};
+Output= arr3[]={1,2,3,4,5};

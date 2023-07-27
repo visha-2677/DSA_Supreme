@@ -1,0 +1,12 @@
+*************** Modulo Arithmatic ************************** 
+1. (a % n) -> [0,...,n-1] Ex like . 10 % 3 = between [0,1,2]
+2. Generally, to avoid overflow while storing integer we do modulo with a Large number.
+    mean module use in question like large integer of ans than store use in modulo than ans return 
+    1. (a+b) % m = a % m + b % m
+    2. (a % m) - (b % m) = (a-b) % m
+    3. ((a % m)% m)% m = a % m
+    4. (a % m) * (b % m) = (a % b) % m
+
+*Q .Fast Exponentiation
+1. Normal Method find a^b -> tc = O(b).
+2. Better Solution a^b -> tc= O(logb)

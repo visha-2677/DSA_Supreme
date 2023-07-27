@@ -1,0 +1,16 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "limits": "cpp",
+        "utility": "cpp",
+        "initializer_list": "cpp",
+        "xstring": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "deque": "cpp",
+        "xiosbase": "cpp",
+        "xutility": "cpp",
+        "queue": "cpp"
+    }
+}
